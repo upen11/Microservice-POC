@@ -10,7 +10,7 @@ Develeoped a small microservice project.
     - greet-api
     - welcome-api
 
-4) Interservice Communication (FeginClient)
+4) Interservice Communication (FeignClient)
 
 5) External communication (RestTemplate)
     - External Api is https://official-joke-api.appspot.com/random_joke
@@ -19,7 +19,7 @@ Develeoped a small microservice project.
     - For distributed log tracing
 
 7) API Gateway (Spring Cloud Gateway)
-    - used to manage backend apis of the project and acts as mediator between end users and backend apis.
+    - used to manage backend apis of the project. It also acts as mediator between end users and backend apis.
 
 
 
